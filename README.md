@@ -19,51 +19,23 @@ Enjoy it :)
 ## How To install and Run project
 
 1) Clone project in My gitHub
-2) Run composer install
-3) Config your database in .env file
-4) Run command php artisan key:generate
-5) Run command php artisan migrate
-6) Run command php artisan serve 
-7) Go to the localhost:8000/files
-8) Enjoy it :)
+2) Run **composer install**
+3) Copy file .env.example and to rename to **.env**
+4) Config your database in .env file
+5) Run command **php artisan key:generate**
+6) Run command **php artisan migrate**
+7) Run command **php artisan serve** 
+8) Go to the localhost:8000/files
+9) Enjoy it :)
 
 ## Some Screenshot from project
 
 Main menu
 ![Main](https://user-images.githubusercontent.com/36498620/169462333-1844dc50-117e-4d50-9b4d-e5c20b338b93.png)
 
-Upload Image
+Main Upload Image
 ![image](https://user-images.githubusercontent.com/36498620/169463075-f3729f83-58f3-4d0c-81a7-a401c3a04c43.png)
 
-
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
