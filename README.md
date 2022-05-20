@@ -29,7 +29,12 @@ Enjoy it :)
 
 ## Some Screenshot from project
 
+Main menu
 ![Main](https://user-images.githubusercontent.com/36498620/169462333-1844dc50-117e-4d50-9b4d-e5c20b338b93.png)
+
+Upload Image
+![image](https://user-images.githubusercontent.com/36498620/169463075-f3729f83-58f3-4d0c-81a7-a401c3a04c43.png)
+
 
 
 ### Premium Partners
