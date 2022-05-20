@@ -13,7 +13,8 @@ Laravel task manager is a open source project about Image Manager.
 
 ## Description
 
-this priject created by laravel , Boostrap 5
+this project created by laravel , Boostrap 5 
+
 Enjoy it :)
 
 ## How To install and Run project
